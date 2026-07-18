@@ -1,0 +1,8 @@
+command for powershell to rename calibration images
+cd calibration\images
+$i = 1
+Get-ChildItem -File | Sort-Object LastWriteTime | ForEach-Object {
+    $newName = "calib_{0:D2}.jpg" -f $i
+    Rename-Item $_.FullName $newName
+    $i++
+}
