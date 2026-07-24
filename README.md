@@ -15,3 +15,6 @@ pixel-to-mm reference. Work in progress — see commit history for
 incremental progress.
 
 Dataset link:https://drive.google.com/drive/folders/1ggQ5v5RhrfJCYNOPfEuNagUY9e87KN7y?usp=sharing
+
+Trained Model Weights: (U-Net + ResNet34, best checkpoint): https://drive.google.com/file/d/15joSOae3agqeE6RzCTd5HSGqulEGN0yD/view?usp=sharing
+
