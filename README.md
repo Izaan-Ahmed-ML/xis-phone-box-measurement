@@ -18,3 +18,6 @@ Dataset link:https://drive.google.com/drive/folders/1ggQ5v5RhrfJCYNOPfEuNagUY9e8
 
 Trained Model Weights: (U-Net + ResNet34, best checkpoint): https://drive.google.com/file/d/15joSOae3agqeE6RzCTd5HSGqulEGN0yD/view?usp=sharing
 
+Full training pipeline (data loading, model setup, training loop, evaluation): 
+`models/training/train_unet.ipynb` — designed to run on Google Colab with a GPU runtime.
+
