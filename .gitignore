@@ -4,3 +4,4 @@ dataset/dataset_box_cover/undistroted/
 dataset/labelled_export/
 models/*.pth
 models/*.zip
+measurement/validation_shots/
