@@ -21,12 +21,9 @@ error analysis).
 
 ## Quick Start
 
-See [SETUP.md](docs/SETUP.md) for full installation instructions.
-
 pip install -r requirements.txt
 python inference/inference.py --image path/to/photo.jpg --output result.jpg
 python measurement/measure_box.py path/to/photo_with_marker.jpg
-
 
 ## Repository Structure
 
