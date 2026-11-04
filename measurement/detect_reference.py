@@ -57,8 +57,8 @@ def detect_reference_marker(img, marker_size_mm=MARKER_SIZE_MM):
 
 
 if __name__ == "__main__":
-    CALIB_PATH = "Calibration/camera_params.npz"
-    IMAGE_PATH = "measurement/test_shots/marker_and_box_01.jpeg"  # adjust to your actual filename
+    CALIB_PATH = "D:/project-root/Calibration/camera_params.npz"
+    IMAGE_PATH = "D:/project-root/measurement/test_shots/marker_and_box_01.jpeg"  # adjust to your actual filename
 
     K, distCoeffs = load_calibration(CALIB_PATH)
     img = cv2.imread(IMAGE_PATH)
