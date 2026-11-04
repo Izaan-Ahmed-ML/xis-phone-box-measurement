@@ -40,9 +40,9 @@ docs/ # All documentation and reports
 
 ## Documentation
 
-- [CALIBRATION_REPORT.md](docs/CALIBRATION_REPORT.md) — camera calibration method, parameters, debugging process
-- [DATASET_CARD.md](docs/DATASET_CARD.md) — dataset collection, labelling, splits
-- [TRAINING_REPORT.md](docs/TRAINING_REPORT.md) — model architecture, training, metrics
+- [CALIBRATION_REPORT.md](docs/Calibration_report.md) — camera calibration method, parameters, debugging process
+- [DATASET_CARD.md](docs/Dataset_card.md) — dataset collection, labelling, splits
+- [TRAINING_REPORT.md](docs/Training_report.md) — model architecture, training, metrics
 - [MEASUREMENT_REPORT.md](docs/MEASUREMENT_REPORT.md) — measurement methodology, accuracy validation
 - [INFERENCE_GUIDE.md](docs/INFERENCE_GUIDE.md) — inference script usage
 - [SETUP.md](docs/SETUP.md) — full setup and installation
